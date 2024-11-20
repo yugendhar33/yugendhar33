@@ -4,6 +4,7 @@
 Associate Software Engineer @ Innova Solutions
 Developed and maintained a Global Solutions Delivery (GSD) portal for employee skill management using .NET Core, C#, Angular, and Elastic Search.
 Delivered solutions to optimize user experience and streamline data processes.
+
 Junior Software Engineer @ Innova Solutions
 Contributed to a Money Exchange Platform for a prominent Kuwait-based exchange house, focusing on backend functionality in .NET Core and API testing.
 Completed a six-month training program mastering technologies like .NET Core, .NET Framework, MVC, SQL, CSS, HTML, and JavaScript.
