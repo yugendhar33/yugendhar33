@@ -1,38 +1,23 @@
-👋 Hi there! I'm Yugendhar, a passionate software developer with professional experience in crafting robust solutions and currently enhancing my expertise in Cybersecurity and Computer Science.
-
-💻 Professional Journey:
-
-  •	Associate Software Engineer @ Innova Solutions
-  
-       o	Developed and maintained a Global Solutions Delivery (GSD) portal for employee skill management using .NET Core, C#, Angular, and Elastic Search.
-       o	Delivered solutions to optimize user experience and streamline data processes.
-
-  •	Junior Software Engineer @ Innova Solutions
-  
-       o	Contributed to a Money Exchange Platform for a prominent Kuwait-based exchange house, focusing on backend functionality in .NET Core and API testing.
-       
-       o	Completed a six-month training program mastering technologies like .NET Core, .NET Framework, MVC, SQL, CSS, HTML, and JavaScript.
-
-🎓 Academic Pursuits:
-Currently pursuing a Master's in Computer Science at the University of Missouri-Kansas City (UMKC), focusing on Cybersecurity, Big Data Analytics, and Cloud Computing.
-
-🔐 Cybersecurity Enthusiast:
-Exploring innovative solutions in cyber defense, vulnerability management, and secure software development. With hands-on experience in projects like Asset Management Systems and interest in building scalable, secure, and efficient platforms.
-
-🚀 Skills and Interests:
-
-    •	Programming: .NET Core, C#, Angular, SQL, Python
-    
-    •	Cybersecurity: Threat Intelligence, Incident Response, Risk Assessment
-    
-    •	Tools: Elastic Search, PostgreSQL, Visual Studio, Git
-    
-    •	Web Development: HTML, CSS, JavaScript
-
-🌱 Current Goals:
-
-    •	Building expertise in cybersecurity solutions and big data analytics.
-    
-    •	Collaborating on open-source projects related to secure systems and cloud technologies.
-Let's connect and build something impactful! 🌟
+👋 Hello! I'm Yugendhar, a dedicated software engineer turned graduate student, currently diving deep into the world of Cybersecurity and Computer Science.
+💻 Professional Experience:
+•	Associate Software Engineer @ Innova Solutions
+o	Built and maintained a Global Solutions Delivery (GSD) portal for employee skill management using .NET Core, C#, Angular, and Elastic Search.
+o	Focused on enhancing user experience and streamlining business processes.
+•	Junior Software Engineer @ Innova Solutions
+o	Developed backend functionality for a Money Exchange Platform catering to a prominent Kuwait-based exchange house.
+o	Successfully completed a comprehensive six-month training program in .NET Core, MVC, SQL, CSS, HTML, and JavaScript.
+🎓 Current Endeavors:
+•	Pursuing a Master’s in Computer Science at University of Missouri-Kansas City (UMKC), with a specialization in Cybersecurity and Cloud Computing.
+🔐 Cybersecurity Focus:
+•	Exploring challenges in threat intelligence, incident response, and vulnerability management.
+•	Applying full-stack expertise to develop secure and efficient systems.
+💡 Key Skills:
+•	Backend Development: .NET Core, C#, SQL
+•	Frontend Development: Angular, HTML, CSS, JavaScript
+•	Tools & Technologies: Elastic Search, PostgreSQL, Git, Visual Studio
+•	Cybersecurity Domains: Asset Management, Risk Assessment, Threat Aggregation
+🌟 Interests and Aspirations:
+•	Innovating in secure software development and cloud computing.
+•	Collaborating on impactful tech projects to solve real-world problems.
+🔗 Let's build, innovate, and create a secure digital future together!
 
