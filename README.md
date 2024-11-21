@@ -5,7 +5,6 @@
   •	Associate Software Engineer @ Innova Solutions
   
        o	Developed and maintained a Global Solutions Delivery (GSD) portal for employee skill management using .NET Core, C#, Angular, and Elastic Search.
-       
        o	Delivered solutions to optimize user experience and streamline data processes.
 
   •	Junior Software Engineer @ Innova Solutions
