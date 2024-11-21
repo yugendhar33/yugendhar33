@@ -1,13 +1,14 @@
 👋 Hi there! I'm Yugendhar, a passionate software developer with professional experience in crafting robust solutions and currently enhancing my expertise in Cybersecurity and Computer Science.
 
 💻 Professional Journey:
+
 •	Associate Software Engineer @ Innova Solutions
-o	Developed and maintained a Global Solutions Delivery (GSD) portal for employee skill management using .NET Core, C#, Angular, and Elastic Search.
-o	Delivered solutions to optimize user experience and streamline data processes.
+       o	Developed and maintained a Global Solutions Delivery (GSD) portal for employee skill management using .NET Core, C#, Angular, and Elastic Search.
+       o	Delivered solutions to optimize user experience and streamline data processes.
 
 •	Junior Software Engineer @ Innova Solutions
-o	Contributed to a Money Exchange Platform for a prominent Kuwait-based exchange house, focusing on backend functionality in .NET Core and API testing.
-o	Completed a six-month training program mastering technologies like .NET Core, .NET Framework, MVC, SQL, CSS, HTML, and JavaScript.
+       o	Contributed to a Money Exchange Platform for a prominent Kuwait-based exchange house, focusing on backend functionality in .NET Core and API testing.
+       o	Completed a six-month training program mastering technologies like .NET Core, .NET Framework, MVC, SQL, CSS, HTML, and JavaScript.
 
 🎓 Academic Pursuits:
 Currently pursuing a Master's in Computer Science at the University of Missouri-Kansas City (UMKC), focusing on Cybersecurity, Big Data Analytics, and Cloud Computing.
