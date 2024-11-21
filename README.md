@@ -16,7 +16,7 @@
 
 🎓 Current Endeavors: 
 
-•	Pursuing a Master’s in Computer Science at University of Missouri-Kansas City (UMKC), with a specialization in Cybersecurity and Cloud Computing.
+•	Pursuing a Master’s in Computer Science at University of Missouri-Kansas City (UMKC), with a specialization in Cybersecurity and Software Engineering.
 
 🔐 Cybersecurity Focus:
 
