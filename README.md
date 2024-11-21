@@ -4,17 +4,17 @@
 
 •	Associate Software Engineer @ Innova Solutions
 
-•	Built and maintained a Global Solutions Delivery (GSD) portal for employee skill management using .NET Core, C#, Angular, and Elastic Search.
+   •	Built and maintained a Global Solutions Delivery (GSD) portal for employee skill management using .NET Core, C#, Angular, and Elastic Search.
 
-•	Focused on enhancing user experience and streamlining business processes.
+   •	Focused on enhancing user experience and streamlining business processes.
 
 •	Junior Software Engineer @ Innova Solutions
 
-•		Developed backend functionality for a Money Exchange Platform catering to a prominent Kuwait-based exchange house.
+  •		Developed backend functionality for a Money Exchange Platform catering to a prominent Kuwait-based exchange house.
 
-•		Successfully completed a comprehensive six-month training program in .NET Core, MVC, SQL, CSS, HTML, and JavaScript.
+  •		Successfully completed a comprehensive six-month training program in .NET Core, MVC, SQL, CSS, HTML, and JavaScript.
 
-🎓 Current Endeavors:
+🎓 Current Endeavors: 
 
 •	Pursuing a Master’s in Computer Science at University of Missouri-Kansas City (UMKC), with a specialization in Cybersecurity and Cloud Computing.
 
